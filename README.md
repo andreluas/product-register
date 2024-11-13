@@ -30,6 +30,17 @@
     npm run dev
     ```
 
+### Dockerfile
+
+1. Entre na pasta do backend:
+    ```bash
+    cd frontend
+    ```
+2. Execute o comando para subir os containers:
+    ```bash
+    docker compose up
+    ```
+
 ## Configuração do Banco de Dados
 
 - **PostgreSQL**: Certifique-se de que o banco de dados está configurado corretamente para o Spring Boot, com as credenciais adequadas no arquivo `application.properties` ou `application.yml`.
