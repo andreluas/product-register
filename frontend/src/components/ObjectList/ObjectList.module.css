@@ -1,0 +1,12 @@
+.section {
+  max-width: 60rem;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 16px;
+  gap: 20px;
+  align-items: center;
+  border-radius: 10px;
+  border: 1px solid #ffff;
+}
