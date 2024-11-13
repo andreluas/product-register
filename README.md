@@ -34,7 +34,7 @@
 
 1. Entre na pasta do backend:
     ```bash
-    cd frontend
+    cd backend
     ```
 2. Execute o comando para subir os containers:
     ```bash
